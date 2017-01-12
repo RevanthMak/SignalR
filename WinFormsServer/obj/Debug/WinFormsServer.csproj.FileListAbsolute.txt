@@ -1,0 +1,1 @@
+\\Mac\Home\Downloads\Using SignalR in WinForms and WPF\C#\WinFormsServer\bin\Debug\SignalRChat.exe.config
